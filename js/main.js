@@ -11,7 +11,7 @@ function checkAndInsert() {
     // Використовуємо switch для перевірки введеного слова
     switch (userInput) {
         case 'алогомора':
-            insertPhrase('');
+            insertPhrase('На каміні я стою, пам!ять в себе бережу.');
             break;
         case 'лумос':
             insertPhrase('Почерк дуже красивий, хоч він не користується ручкою.');
